@@ -1,0 +1,203 @@
+[
+    {
+     "nome":"Arsenal",
+     "partite":38, 
+     "vinte": 26,
+     "pareggi":9,
+     "perse":3,
+     "golFatti":79,
+     "golSubiti":36,
+     "punti": 87
+    },
+    {
+     "nome":"Liverpool",     
+     "partite": 38, 
+     "vinte": 24,
+     "pareggi":8,
+     "perse":6,
+     "golFatti":67,
+     "golSubiti":30,
+     "punti": 80
+    },
+    {
+     "nome":"Manchester_U",
+     "partite":38, 
+     "vinte": 24,
+     "pareggi":5,
+     "perse":9,
+     "golFatti":87,
+     "golSubiti":45,
+     "punti": 77 
+    },
+    {
+     "nome":"Newcastle",
+     "partite":38, 
+     "vinte": 21,
+     "pareggi": 8,
+     "perse": 9,
+     "golFatti":74,
+     "golSubiti":52,
+     "punti": 71 
+    },
+    {
+     "nome":"Leeds",
+     "partite":38, 
+     "vinte": 18,
+     "pareggi": 12,
+     "perse": 8,
+     "golFatti":53,
+     "golSubiti":37,
+     "punti": 66 
+    },
+    {
+     "nome":"Chelsea",
+     "partite":38, 
+     "vinte": 17,
+     "pareggi": 13,
+     "perse": 8,
+     "golFatti":66,
+     "golSubiti":38,
+     "punti": 64 
+    },
+    {
+     "nome":"West_Ham",
+     "partite":38, 
+     "vinte": 15,
+     "pareggi": 8,
+     "perse": 15,
+     "golFatti":48,
+     "golSubiti":57,
+     "punti": 53 
+    },
+    {
+     "nome":"Aston_Villa",
+     "partite":38, 
+     "vinte": 12,     
+     "pareggi": 14,
+     "perse": 12,
+     "golFatti":46,
+     "golSubiti":47,
+     "punti": 50 
+    },
+    {
+     "nome":"Tottenham",
+     "partite":38,    
+     "vinte": 14,
+     "pareggi": 8,
+     "perse": 16,
+     "golFatti":49,
+     "golSubiti":53,
+     "punti": 50 
+    },
+    {
+     "nome":"Blackburn",
+     "partite":38, 
+     "vinte": 12,     
+     "pareggi": 10,
+     "perse": 16,
+     "golFatti":55,
+     "golSubiti":51,
+     "punti": 46 
+    },
+    {
+     "nome":"Southampton",
+     "partite":38,    
+     "vinte": 12,
+     "pareggi": 9,
+     "perse": 17,
+     "golFatti":46,
+     "golSubiti":54,
+     "punti": 45 
+    },
+    {
+     "nome":"Middlesbrough",
+     "partite":38, 
+     "vinte": 12,     
+     "pareggi": 9,
+     "perse": 17,
+     "golFatti":35,
+     "golSubiti":47,
+     "punti": 45 
+    },
+    {
+     "nome":"Fulham",
+     "partite":38,    
+     "vinte": 10,
+     "pareggi": 14,
+     "perse": 14,
+     "golFatti":36,
+     "golSubiti":44,
+     "punti": 44 
+    },
+    {
+     "nome":"Charlton",
+     "partite":38, 
+     "vinte": 10,     
+     "pareggi": 14,
+     "perse": 14,
+     "golFatti":38,
+     "golSubiti":49,
+     "punti": 44 
+    },
+    {
+     "nome":"Everton",
+     "partite":38,    
+     "vinte": 11,
+     "pareggi": 10,
+     "perse": 17,
+     "golFatti":45,
+     "golSubiti":57,
+     "punti": 43 
+    },
+    {
+     "nome":"Bolton",
+     "partite":38, 
+     "vinte": 9,     
+     "pareggi": 13,
+     "perse": 16,
+     "golFatti":44,
+     "golSubiti":62,
+     "punti": 40 
+    },
+    {
+     "nome":"Sunderland",
+     "partite":38,    
+     "vinte": 10,
+     "pareggi": 10,
+     "perse": 18,
+     "golFatti":29,
+     "golSubiti":51,
+     "punti": 40 
+    },
+    {
+     "nome":"Ipswich",
+     "partite":38, 
+     "vinte": 9,     
+     "pareggi": 9,
+     "perse": 20,
+     "golFatti":41,
+     "golSubiti":64,
+     "punti": 36 
+    },
+    {
+     "nome":"Derby",
+     "partite":38,    
+     "vinte": 8,
+     "pareggi": 6,
+     "perse": 24,
+     "golFatti":33,
+     "golSubiti":63,
+     "punti": 30 
+    },
+    {
+     "nome":"Leicester",
+     "partite":38, 
+     "vinte": 5,     
+     "pareggi":13,
+     "perse": 20,
+     "golFatti":30,
+     "golSubiti":64,
+     "punti": 28 
+    }
+]
+    
